@@ -1,0 +1,168 @@
+title,release_year,runtime,genres,imdb_score
+A Charlie Brown Christmas,1965,25,"['comedy', 'drama', 'family', 'music', 'animation']",8.3
+"It's the Great Pumpkin, Charlie Brown",1966,25,"['animation', 'comedy', 'family']",8.2
+A Charlie Brown Thanksgiving,1973,25,"['family', 'animation', 'comedy']",7.7
+"Be My Valentine, Charlie Brown",1975,25,"['animation', 'family', 'romance', 'comedy']",7.4
+"It's the Easter Beagle, Charlie Brown",1974,25,"['family', 'animation', 'comedy']",7.5
+Fraggle Rock,1983,26,"['scifi', 'animation', 'comedy', 'family', 'fantasy']",7.9
+"Happy New Year, Charlie Brown",1986,28,"['animation', 'comedy', 'family']",7.2
+Out of Sight,1998,123,"['comedy', 'crime', 'drama', 'romance', 'thriller']",7
+Entrapment,1999,112,"['thriller', 'romance', 'drama', 'action', 'crime']",6.3
+"It's Christmastime Again, Charlie Brown",1992,22,"['animation', 'family', 'comedy']",6.9
+The Italian Job,2003,111,"['action', 'crime', 'thriller']",7
+Matchstick Men,2003,116,"['drama', 'crime', 'thriller', 'comedy']",7.3
+Long Way Round,2004,45,"['documentation', 'european']",8.6
+Long Way Down,2007,48,"['documentation', 'european']",8.6
+"I Want a Dog for Christmas, Charlie Brown",2003,49,"['animation', 'comedy', 'family']",7
+Charlie Brown's Christmas Tales,2002,18,"['comedy', 'animation', 'family']",7
+A Charlie Brown Valentine,2002,25,"['family', 'animation', 'romance', 'comedy']",7.1
+The Five-Year Engagement,2012,124,"['comedy', 'drama', 'romance']",6.2
+Carpool Karaoke: The Series,2017,21,"['comedy', 'reality', 'music']",5.6
+Ted Lasso,2020,37,"['drama', 'comedy', 'sport']",8.8
+Servant,2019,29,"['drama', 'thriller', 'horror']",7.5
+For All Mankind,2019,61,"['drama', 'scifi', 'war']",8
+Mythic Quest,2020,27,['comedy'],7.8
+Truth Be Told,2019,45,"['drama', 'thriller', 'crime']",7.1
+The Morning Show,2019,57,"['drama', 'comedy']",8.3
+See,2019,54,"['scifi', 'action', 'drama']",7.6
+The Banker,2020,120,['drama'],7.3
+Greyhound,2020,91,"['drama', 'history', 'war', 'action']",7
+Amazing Stories,2020,51,"['action', 'scifi', 'drama', 'fantasy']",6.3
+Tehran,2020,46,"['drama', 'action', 'crime', 'thriller']",7.6
+Little America,2020,34,"['drama', 'comedy']",7.6
+Trying,2020,29,"['comedy', 'drama', 'romance']",7.9
+Dickinson,2019,31,"['comedy', 'drama', 'romance']",7.6
+Defending Jacob,2020,51,"['drama', 'thriller', 'crime']",7.8
+Central Park,2020,24,"['animation', 'comedy']",6.9
+Home,2020,34,['documentation'],7.5
+Home Before Dark,2020,45,"['crime', 'drama', 'thriller']",7.5
+Ghostwriter,2019,25,"['scifi', 'action', 'family', 'fantasy']",5.7
+Fireball: Visitors from Darker Worlds,2020,97,['documentation'],7
+Wolfwalkers,2020,103,"['fantasy', 'thriller', 'animation', 'action', 'drama', 'family']",8
+Beastie Boys Story,2020,119,"['documentation', 'music']",7.7
+Long Way Up,2020,47,"['documentation', 'reality']",8.2
+On the Rocks,2020,96,"['drama', 'comedy', 'romance']",6.4
+Boys State,2020,109,['documentation'],7.6
+Tiny World,2020,30,['documentation'],8.9
+Oprah's Book Club,2019,32,[],4.7
+Visible: Out On Television,2020,62,"['documentation', 'history']",8.3
+Greatness Code,2020,6,"['documentation', 'sport']",4.7
+Losing Alice,2020,48,"['drama', 'romance', 'thriller']",6.6
+The Oprah Conversation,2020,40,['documentation'],3.2
+Fraggle Rock: Rock On!,2020,6,['family'],6.3
+Hala,2019,93,['drama'],6.2
+Earth at Night in Color,2020,29,['documentation'],8.2
+Stillwater,2020,0,"['animation', 'family']",8.3
+Little Voice,2020,30,"['drama', 'music', 'romance', 'comedy']",7.2
+Snoopy in Space,2019,8,"['animation', 'scifi', 'comedy', 'family']",7.6
+The Elephant Queen,2019,96,"['documentation', 'family']",7.8
+Bruce Springsteen's Letter to You,2020,90,"['documentation', 'music']",7.3
+Dear...,2020,31,['documentation'],7
+Becoming You,2020,41,['documentation'],7.9
+Helpsters,2019,16,"['family', 'music', 'comedy']",6.8
+Mariah Carey's Magical Christmas Special,2020,43,"['family', 'music', 'fantasy']",5.8
+Doug Unplugs,2020,20,"['animation', 'family']",7.1
+Dads,2020,87,"['documentation', 'comedy', 'family']",6.9
+Peanuts in Space: Secrets of Apollo 10,2019,9,"['family', 'history', 'animation']",6.5
+Oprah Talks COVID-19,2020,22,[],2.7
+Helpsters Help You,2020,3,['family'],6.1
+Severance,2022,48,"['drama', 'scifi', 'thriller']",8.7
+Slow Horses,2022,48,"['drama', 'thriller', 'comedy']",7.9
+Black Bird,2022,58,"['drama', 'crime', 'thriller']",8.1
+Bad Sisters,2022,53,"['thriller', 'comedy', 'drama']",8.3
+Causeway,2022,96,['drama'],6.6
+Foundation,2021,55,"['drama', 'scifi']",7.4
+Echo 3,2022,58,"['drama', 'action', 'thriller']",6.5
+CODA,2021,112,"['drama', 'comedy', 'music']",8
+"The Boy, the Mole, the Fox and the Horse",2022,34,"['family', 'action', 'fantasy', 'animation', 'drama', 'comedy']",7.9
+Pachinko,2022,55,['drama'],8.4
+The Mosquito Coast,2021,47,"['drama', 'action', 'thriller']",6.8
+Shantaram,2022,52,"['action', 'crime', 'drama', 'thriller']",7.5
+WeCrashed,2022,53,['drama'],7.3
+Loot,2022,27,['comedy'],6.7
+The Problem With Jon Stewart,2021,46,['comedy'],7.1
+The Afterparty,2022,35,"['thriller', 'comedy', 'crime']",7.2
+Schmigadoon!,2021,30,"['comedy', 'fantasy', 'romance']",7.3
+Acapulco,2021,29,['comedy'],7.7
+Five Days at Memorial,2022,47,['drama'],7.7
+The Greatest Beer Run Ever,2022,126,"['drama', 'war', 'comedy']",6.8
+Prehistoric Planet,2022,41,"['documentation', 'history', 'animation']",8.5
+Spirited,2022,127,"['comedy', 'family']",6.6
+Raymond & Ray,2022,106,"['drama', 'comedy']",6.2
+Selena Gomez: My Mind & Me,2022,95,"['music', 'documentation']",7.4
+Shining Girls,2022,49,"['drama', 'scifi', 'thriller', 'crime']",7.4
+Finch,2021,115,"['scifi', 'drama']",6.9
+Invasion,2021,51,"['scifi', 'drama', 'fantasy']",6
+Roar,2022,32,"['drama', 'comedy']",5.6
+Emancipation,2022,132,"['drama', 'thriller', 'action']",6.1
+Make or Break,2022,40,"['documentation', 'sport']",7.8
+The Essex Serpent,2022,48,"['drama', 'history', 'fantasy']",6.3
+Surface,2022,0,"['drama', 'thriller']",6.3
+Cha Cha Real Smooth,2022,108,"['drama', 'comedy']",7.3
+The Shrink Next Door,2021,43,"['drama', 'comedy']",7.1
+Now and Then,2022,54,"['drama', 'thriller', 'crime']",5.6
+Luck,2022,105,"['fantasy', 'animation', 'comedy', 'family']",6.4
+Physical,2021,29,"['drama', 'comedy']",7.3
+Gutsy,2022,0,['documentation'],4
+The Tragedy of Macbeth,2021,105,"['drama', 'thriller', 'war', 'history', 'comedy', 'romance', 'action']",7.1
+The Last Days of Ptolemy Grey,2022,52,['drama'],7.8
+Suspicion,2022,46,"['drama', 'crime', 'thriller']",6.2
+Circuit Breakers,2022,25,"['family', 'scifi']",5.4
+Calls,2021,16,"['thriller', 'drama', 'scifi', 'horror', 'animation']",7.7
+The Big Conn,2022,57,"['documentation', 'crime']",7.1
+Billie Eilish: The World's a Little Blurry,2021,140,"['music', 'documentation']",7.7
+They Call Me Magic,2022,60,"['documentation', 'sport']",7.7
+The Line,2021,56,"['war', 'documentation', 'crime']",7.7
+Lisey's Story,2021,50,"['horror', 'thriller', 'drama', 'scifi', 'fantasy']",5.9
+Come from Away,2021,107,"['comedy', 'drama']",8.6
+Sidney,2022,106,['documentation'],7.8
+Fraggle Rock: Back to the Rock,2022,27,"['animation', 'comedy', 'family']",8.1
+Palmer,2021,110,['drama'],7.2
+The Me You Can't See,2021,62,['documentation'],5.5
+1971: The Year That Music Changed Everything,2021,45,"['documentation', 'history', 'music']",7.6
+Watch the Sound with Mark Ronson,2021,35,"['documentation', 'music']",8
+Louis Armstrong's Black & Blues,2022,104,"['documentation', 'music']",7.3
+Cherry,2021,140,"['drama', 'crime']",6.6
+Dr. Brain,2021,57,"['thriller', 'drama', 'scifi']",6.7
+Mr. Corman,2021,29,"['comedy', 'drama']",6.5
+The Velvet Underground,2021,121,"['documentation', 'music']",7.4
+The Sky Is Everywhere,2022,103,"['drama', 'romance', 'music']",5.6
+Swan Song,2021,112,"['drama', 'romance', 'scifi']",6.8
+Fathom,2021,86,['documentation'],5.7
+Lincoln's Dilemma,2022,55,"['documentation', 'history']",7.1
+Swagger,2021,53,"['drama', 'sport']",7.2
+Amber Brown,2022,25,"['family', 'comedy', 'drama']",5.5
+'Twas the Fight Before Christmas,2021,91,['documentation'],6.3
+Puppy Place,2021,26,[],7.2
+9/11: Inside the President's War Room,2021,89,"['history', 'documentation']",7.5
+The Year Earth Changed,2021,48,['documentation'],8.2
+"Hello, Jack! The Kindness Show",2021,22,"['family', 'comedy']",8
+Surfside Girls,2022,30,"['thriller', 'family']",6.5
+Life by Ella,2022,30,"['drama', 'comedy']",5.8
+Lovely Little Farm,2022,25,['family'],8
+Best Foot Forward,2022,0,"['family', 'comedy', 'drama']",7.2
+"Who Are You, Charlie Brown?",2021,61,"['documentation', 'animation']",7.2
+The Snoopy Show,2021,22,"['animation', 'comedy', 'family', 'action']",8.1
+Snoopy Presents: Lucy's School,2022,38,"['animation', 'family', 'comedy']",6.6
+Snoopy Presents: For Auld Lang Syne,2021,39,"['animation', 'comedy', 'family']",6.9
+Blush,2021,11,"['animation', 'scifi']",8
+Wolfboy and The Everything Factory,2021,12,"['animation', 'comedy', 'family', 'fantasy']",7.7
+Pretzel and the Puppies,2022,23,"['animation', 'family']",7.7
+"Snoopy Presents: It’s the Small Things, Charlie Brown",2022,38,"['animation', 'family']",6.7
+Interrupting Chicken,2022,12,"['animation', 'family']",6.4
+Get Rolling with Otis,2021,12,"['animation', 'comedy', 'family']",8.3
+"Snoopy Presents: To Mom (and Dad), With Love",2022,38,"['animation', 'comedy', 'family']",7.1
+Pinecone & Pony,2022,11,"['family', 'fantasy', 'animation', 'comedy']",6.4
+Sago Mini Friends,2022,11,"['animation', 'comedy', 'family']",8.5
+Duck & Goose,2022,0,"['animation', 'family']",7.9
+El Deafo,2022,26,"['comedy', 'family', 'animation']",8.4
+Slumberkins,2022,0,"['fantasy', 'animation', 'comedy', 'family']",9.5
+Mariah's Christmas: The Magic Continues,2021,18,"['music', 'family']",4.9
+Shrinking,2023,55,"['comedy', 'drama']",7.9
+Hello Tomorrow!,2023,0,"['drama', 'scifi', 'comedy']",6.3
+Sharper,2023,116,"['crime', 'drama', 'thriller']",6.6
+Dear Edward,2023,0,['drama'],7.4
+The Reluctant Traveler with Eugene Levy,2023,35,"['documentation', 'reality']",7.8
+Liaison,2023,51,"['crime', 'thriller']",6.3
+Super League: The War For Football,2023,0,"['documentation', 'sport']",7.4
+Shape Island,2023,24,"['family', 'animation', 'fantasy', 'comedy']",7.6
